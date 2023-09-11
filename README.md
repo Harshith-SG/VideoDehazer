@@ -1,5 +1,5 @@
 # VideoDehazer
-To dehaze the video, add a video with name input.mp4. This can be changed to read from a directory.
+To dehaze the video, add a video with name input.mp4. This can be changed to read from a directory. and then run vidtoim.m
 
 
 suggestions for future use:
